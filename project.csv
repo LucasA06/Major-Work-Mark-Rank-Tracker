@@ -1,5 +1,7 @@
 Subject,Mark 1,Mark 1 out of,Rank 1,Rank 1 out of,Mark 2,Mark 2 out of,Rank 2,Rank 2 out of,Mark 3,Mark 3 out of,Rank 3,Rank 3 out of,Mark 4,Mark 4 out of,Rank 4,Rank 4 out of,Goals
 Physics,40,100,1,70,22,30,4,70,89,100,2,70,19,20,1,70,Achieve a score above 80%#True$Become rank one#False
-English,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,New Goal#False
-Software,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,New Goal#False
-French Continuers,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,New Goal#False
+English,17,25,90,156,15,20,126,156,18,25,100,156,none,none,none,none,New Goal#False
+Software,163,180,3,18,19,20,2,18,100,100,2,15,none,none,none,none,New Goal#False
+Math Ext 1,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,New Goal#False
+Engineering,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,none,New Goal#False
+Math Adv,11,12,33,118,52,54,19,118,20,32,31,118,none,none,none,none,New Goal#False
